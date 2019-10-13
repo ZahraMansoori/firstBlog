@@ -1,0 +1,61 @@
+.header {
+    background-color: #565d64;
+}
+
+.sideBar {
+    background-color: #777777;
+}
+
+.content {
+    background-color: #b94a48;
+}
+
+.footer {
+    background-color: #bfbfbf;
+}
+
+.header,.footer{
+    margin: 2px;
+}
+.sideBar,.content{
+    border-radius: 5px;
+}
+
+.inside {
+    margin: 7px;
+    padding: 10px;
+}
+
+#sideBarTitle{
+    text-align: center ;
+    padding: 4px;
+    margin-bottom: 10px;
+    text-color: #b94a48;
+}
+
+.postBox {
+
+    background-color: #aaa;
+    padding: 5px;
+}
+
+.evenpost {
+    margin: 5px;
+
+    border-radius: 5px;
+    background-color: #bfbfbf;
+}
+
+.oddpost {
+    margin: 5px;
+
+    border-radius: 5px;
+    background-color: #999999;
+}
+
+.menu {
+    background-color: silver;
+    border: #b94a48 solid 2px;
+    margin :3px;
+    padding : 7px;
+}
