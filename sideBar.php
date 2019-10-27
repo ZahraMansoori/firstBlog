@@ -22,5 +22,8 @@
             <div class="result"></div>
         </div>
 
+        <div class="signUpField" >
+            <a href="signUp.php"> <button class="signUpBtn" style="background-color: #b94a48" >Sign Up</button> </a>
+        </div>
     </div>
 </div>
