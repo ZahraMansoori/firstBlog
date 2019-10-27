@@ -1,26 +1,21 @@
 <!doctype html>
-<html>
-<head lang="en">
+<html lang="en">
+<head >
     <title>Sign Up</title>
     <link rel="stylesheet" href="files/blog.css">
 </head>
 
 <body>
-<div class="fuckinForm">
+<div class="fuckinForm" >
+<!--     style="align-content: center;-->
+<!--    width: 60%;-->
+<!--    margin: 20px auto;-->
+<!--    background-color: #b7b7b7;-->
+<!--    border-radius: 10px;-->
+<!--    padding: 20px;-->
+<!--    text-align: center;">-->
 
-    <div class="signUpForm pure-u-1-2"
-<!--         style="border: 2px solid;-->
-<!--padding: 10px;-->
-<!--background-color: #999999;-->
-<!--align-content: center;-->
-<!--text-align: center;-->
-<!--height: 100%;-->
-<!--width: fit-content;-->
-<!--font-size: 18px;-->
-<!--margin: 5px;"-->
-
-
-
+    <div style="border: 2px solid black">
     <form action="Process.php" method="post">
 
         <label for="nameField">Enter Your Fuckin Name : </label> <br>
