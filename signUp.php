@@ -1,12 +1,12 @@
-<link rel="stylesheet" href="files/blog.css">
+<!doctype html>
+<html>
+<head lang="en">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="files/blog.css">
+</head>
 
-<div style="align-content: center;
-            width: 60%;
-            margin: 20px auto;
-            background-color: #b7b7b7;
-            border-radius: 10px;
-            padding: 20px;
-text-align: center;">
+<body>
+<div class="fuckinForm">
 
     <div class="signUpForm pure-u-1-2"
 <!--         style="border: 2px solid;-->
@@ -73,3 +73,6 @@ text-align: center;">
 
 
 </div>
+
+</body>
+</html>
