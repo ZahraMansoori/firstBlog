@@ -16,7 +16,7 @@
 <!--    text-align: center;">-->
 
     <div style="border: 2px solid black">
-    <form action="Process.php" method="post">
+    <form action="Process.php" method="post" enctype="multipart/form-data">
 
         <label for="nameField">Enter Your Fuckin Name : </label> <br>
         <input type="text" name="txtField" placeholder="Enter Your Name" id="nameField"><br><br>
